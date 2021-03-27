@@ -1,0 +1,23 @@
+<html>
+<body>
+<a href="http://192.168.43.163?forward">
+<button type="button">FORWARD</button></a>
+<br>
+<a href="http://192.168.43.163?left">
+<button type="button">LEFT</button></a>
+<a href="http://192.168.43.163?right">
+<button type="button">RIGHT</button></a>
+<br><a href="http://192.168.43.163?backward">
+<button type="button">BACKWARD</button></a><br>
+<a href="http://192.168.43.163?stopcar">
+<button type="button">STOP</button></a><br>
+<a href="http://192.168.43.163?pick">
+<button type="button">PICK</button></a>
+<a href="http://192.168.43.163?drop">
+<button type="button">DROP</button></a><br>
+<a href="http://192.168.43.163?up">
+<button type="button">UP</button></a>
+<a href="http://192.168.43.163?down">
+<button type="button">DOWN</button></a><br>
+ </body>
+</html>

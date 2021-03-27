@@ -1,0 +1,20 @@
+<HTML>
+<TITLE>
+MULTIFUNCTIONAL ROBOT
+</TITLE>
+<BODY>
+<FORM method="post" action="/form">
+<INPUT TYPE=SUBMIT VALUE="FORWARD" name=submit><br>
+
+<INPUT TYPE=SUBMIT VALUE="LEFT" name=submit>
+<INPUT TYPE=SUBMIT VALUE="RIGHT" name=submit><br>
+
+<INPUT TYPE=SUBMIT VALUE="BACK" name=submit><br><br>
+<INPUT TYPE=SUBMIT VALUE="UP" name=submit>
+<INPUT TYPE=SUBMIT VALUE="DOWN" name=submit><br>
+<INPUT TYPE=SUBMIT VALUE="PICK" name=submit>
+<INPUT TYPE=SUBMIT VALUE="DROP" name=submit>
+
+</FORM>
+</BODY>
+</HTML>
